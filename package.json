@@ -1,0 +1,35 @@
+{
+    "name": "react-tooltip-tailwind-css",
+    "version": "1.0.0",
+    "author": "reactadmin.com",
+    "description": "react tooltip tailwind css",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "build": "npx babel src --out-dir dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reactadmins/react-tooltip-tailwind-css.git"
+    },
+    "keywords": [
+        "react",
+        "react-tooltip",
+        "tooltip",
+        "tailwindcss-tooltip"
+    ],
+    "license": "MIT License Copyright (c) 2024 React Admin",
+    "bugs": {
+        "url": "https://github.com/reactadmins/react-tooltip-tailwind-css/issues"
+    },
+    "homepage": "https://github.com/reactadmins/react-tooltip-tailwind-css#readme",
+    "dependencies": {
+        "react": "^18.3.1"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.24.5",
+        "@babel/core": "^7.24.5",
+        "@babel/preset-env": "^7.24.5",
+        "@babel/preset-react": "^7.24.1"
+    }
+}
